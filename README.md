@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hola, soy Martín
 
-<!--
-**Ibacho841/Ibacho841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería Civil Informática en la Universidad Andrés Bello (último semestre) y Programmer Trainee en Geti, donde trabajo en pipelines de datos que alimentan procesos de IA en producción.
 
-Here are some ideas to get you started:
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PHP, JavaScript/TypeScript, Python, Angular, PostgreSQL, SQL, GCP, Kubernetes
+
+### Proyectos destacados
+
+- [spark-hospital-stay-prediction](https://github.com/Ibacho841/spark-hospital-stay-prediction): clasificación binaria de estadía hospitalaria prolongada con PySpark / Spark ML, siguiendo CRISP-DM.
+- - [chile-macro-time-series-forecasting](https://github.com/Ibacho841/chile-macro-time-series-forecasting): análisis de cointegración y forecasting de series macro/financieras chilenas (cobre-CLP, Ley de Okun) con ARIMA, Prophet, Holt-Winters y LSTM.
+ 
+  - ### Contacto
+ 
+  - [LinkedIn](https://www.linkedin.com/in/martin-ibaceta-1a230a19a)
+  - 
